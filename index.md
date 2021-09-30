@@ -24,8 +24,7 @@ Check out this article to find out about the negative effects of bubble tea!
 
 [https://www.thehealthy.com/food/bubble-tea-is-unhealthy/](url)
 
-```markdown
-Syntax highlighted code block
+
 
 ### Thank you for reading!
 
